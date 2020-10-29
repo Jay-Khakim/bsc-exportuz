@@ -10,39 +10,39 @@
                             <div class="main_home_slider text-center">
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
-                                        <h3>Our Clients Are Our First Priority</h3>
-                                        <h1>BUSINESS SUPPORT CENTER</h1>
+                                        <h3>@lang("Our Clients Are Our First Priority")</h3>
+                                        <h1>@lang("BUSINESS SUPPORT CENTER")</h1>
                                         <div class="separator"></div>
-                                        <p>"Business support centre" offers its beneficial services to foreign entrepreneurial entities. "Business support centre" guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business.</p>
+                                        <p>@lang("'Business support centre' offers its beneficial services to foreign entrepreneurial entities. 'Business support centre' guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business").</p>
                                         <div class="home_btn">
-                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg m_t_10">GET STARTED NOW</a>
-                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-default">LEARN MORE</a>
+                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg m_t_10">@lang("GET STARTED NOW")</a>
+                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-default">@lang("LEARN MORE")</a>
                                         </div>
 
                                     </div>
                                 </div>
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
-                                        <h3>Our Clients Are Our First Priority</h3>
-                                        <h1>BUSINESS SUPPORT CENTER</h1>
+                                        <h3>@lang("Our Clients Are Our First Priority")</h3>
+                                        <h1>@lang("BUSINESS SUPPORT CENTER")</h1>
                                         <div class="separator"></div>
-                                        <p>"Business support centre" offers its beneficial services to foreign entrepreneurial entities. "Business support centre" guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business.</p>
+                                        <p>@lang("'Business support centre' offers its beneficial services to foreign entrepreneurial entities. 'Business support centre' guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business").</p>
                                         <div class="home_btn">
-                                            <a href="" class="btn btn-lg m_t_10">GET STARTED NOW</a>
-                                            <a href="" class="btn btn-default">LEARN MORE</a>
+                                            <a href="" class="btn btn-lg m_t_10">@lang("GET STARTED NOW")</a>
+                                            <a href="" class="btn btn-default">@lang("LEARN MORE")</a>
                                         </div>
 
                                     </div>
                                 </div>
                                 <div class="single_home_slider">
                                     <div class="main_home wow fadeInUp" data-wow-duration="700ms">
-                                        <h3>Our Clients Are Our First Priority</h3>
-                                        <h1>BUSINESS SUPPORT CENTER</h1>
+                                        <h3>@lang("Our Clients Are Our First Priority")</h3>
+                                        <h1>@lang("BUSINESS SUPPORT CENTER")</h1>
                                         <div class="separator"></div>
-                                        <p>"Business support centre" offers its beneficial services to foreign entrepreneurial entities. "Business support centre" guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business.</p>
+                                        <p>@lang("'Business support centre' offers its beneficial services to foreign entrepreneurial entities. 'Business support centre' guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business").</p>
                                         <div class="home_btn">
-                                            <a href="" class="btn btn-lg m_t_10">GET STARTED NOW</a>
-                                            <a href="" class="btn btn-default">LEARN MORE</a>
+                                            <a href="" class="btn btn-lg m_t_10">@lang("GET STARTED NOW")</a>
+                                            <a href="" class="btn btn-default">@lang("LEARN MORE")</a>
                                         </div>
 
                                     </div>
@@ -66,9 +66,9 @@
                 <div class="main_feature text-center">
                     <div class="col-sm-12">
                         <div class="head_title text-center">
-                            <h2>STATE PRIVILEGES AND PREFERENCES</h2>
+                            <h2>@lang("STATE PRIVILEGES AND PREFERENCES")</h2>
                             <div class="subtitle">
-                                Many preferences and privileges have been created by the government in order to support entrepreneurial activity
+                                @lang("Many preferences and privileges have been created by the government in order to support entrepreneurial activity")
                             </div>
                             <div class="separator"></div>
                         </div>
@@ -79,9 +79,9 @@
                                 <i class="fa fa-map-o"></i>
                             </div>
 
-                            <h4>FREE LAND AREA</h4>
+                            <h4>@lang("FREE LAND AREA")</h4>
                             <div class="separator3"></div>
-                            <p>Ensuring free land areas by the government to operate business activities in Uzbekistan according to the amount of foreign investment.(M4434 Decree of the President of the Rep. of Uzb)</p>
+                            <p>@lang("Ensuring free land areas by the government to operate business activities in Uzbekistan according to the amount of foreign investment.(M4434 Decree of the President of the Rep. of Uzb)")</p>
                         </div>
                     </div>
 
@@ -91,9 +91,9 @@
                                 <i class="fa fa-money"></i>
                             </div>
 
-                            <h4>EXEMPTION FROM TAXES.</h4>
+                            <h4>@lang("EXEMPTION FROM TAXES").</h4>
                             <div class="separator3"></div>
-                            <p>Legal entities are exempted from several taxes such as income tax, property tax and single tax for certain period of time, depending on the amount of investment invested in accordance with the legislation</p>
+                            <p>@lang("Legal entities are exempted from several taxes such as income tax, property tax and single tax for certain period of time, depending on the amount of investment invested in accordance with the legislation")</p>
                         </div>
                     </div>
 
@@ -102,9 +102,9 @@
                             <div class="single_feature_icon main-icons">
                                 <i class="fa fa-file-o"></i>
                             </div>
-                            <h4>FREE CERTIFICATES</h4>
+                            <h4>@lang("FREE CERTIFICATES")</h4>
                             <div class="separator3"></div>
-                            <p>Obtaining foreign and local certificates on a basis of state subsidy</p>
+                            <p>@lang("Obtaining foreign and local certificates on a basis of state subsidy")</p>
                         </div>
                     </div>
 
@@ -114,9 +114,9 @@
                                 <i class="fa fa-usd"></i>
                             </div>
 
-                            <h4>DISCOUNTS</h4>
+                            <h4>@lang("DISCOUNTS")</h4>
                             <div class="separator3"></div>
-                            <p>Up to 50 % subsidy for logistical expenses of exported products. (№3257 Decree of the President of the Rep. of Uzb)</p>
+                            <p>@lang("Up to 50 % subsidy for logistical expenses of exported products. (№3257 Decree of the President of the Rep. of Uzb)")</p>
                         </div>
                     </div>
 
@@ -141,12 +141,12 @@
                     <div class="col-sm-6">
                         <div class="single_history_content">
                             <div class="head_title">
-                                <h2>OUR HISTORY</h2>
+                                <h2>@lang("OUR HISTORY")</h2>
                             </div>
-                            <p class="history">The Association of Exporters of Uzbekistan was officially registered on September 23, 2019 with certificate N?1740 by Ministry of Justice of the Republic of Uzbekistan.  The Association of Exporters of Uzbekistan assists member companies to expand practical communications and relations with foreign partners, to penetrate foreign markets with export products, including to emerge new manufacturers as well as to attract foreign investments.<br>
-                        "Business support centre" under the Association of Exporters of Uzbekistan comprehensively supports entrepreneurs, create favourable conditions, and legally protect them. </p>
+                            <p class="history">@lang("The Association of Exporters of Uzbekistan was officially registered on September 23, 2019 with certificate N?1740 by Ministry of Justice of the Republic of Uzbekistan.  The Association of Exporters of Uzbekistan assists member companies to expand practical communications and relations with foreign partners, to penetrate foreign markets with export products, including to emerge new manufacturers as well as to attract foreign investments").<br>
+                            @lang("'Business support centre' under the Association of Exporters of Uzbekistan comprehensively supports entrepreneurs, create favourable conditions, and legally protect them"). </p>
 
-                            <a href="http://exportuz.com/" class="btn btn-lg">Official Site</a>
+                            <a href="http://exportuz.com/" class="btn btn-lg">@lang("Official Site")</a>
                         </div>
                     </div>
                 </div>
@@ -160,9 +160,9 @@
             <div class="row">
                 <div class="main_blog sections">
                     <div class="head_title text-center">
-                        <h2>GENERAL SERVICES</h2>
+                        <h2>@lang("GENERAL SERVICES")</h2>
                         <div class="subtitle">
-                            "Business support centre" offers its beneficial services to foreign entrepreneurial entities. "Business support centre" guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business.
+                            @lang("'Business support centre' offers its beneficial services to foreign entrepreneurial entities. 'Business support centre' guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business").
 
                         </div>
                         <div class="separator"></div>
@@ -179,11 +179,11 @@
                                     </div>
                                     <div class="col-sm-6 no-padding">
                                         <div class="single_blog_text s_b_left">
-                                            <h3>Ticket & Visa invitation</h3>
+                                            <h3>@lang("Ticket & Visa invitation")</h3>
                                             <div class="separator2"></div>
-                                            <p>Assistance in obtaining air tickets and visas to Uzbekistan.</p>
+                                            <p>@lang("Assistance in obtaining air tickets and visas to Uzbekistan").</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="read_more">Book Now >></a>
+                                            <a href="https://form.jotform.com/202992948975477" class="read_more">@lang("Book Now")>></a>
                                         </div>
                                     </div>
                                 </div>
@@ -200,11 +200,11 @@
                                     </div>
                                     <div class="col-sm-6 no-padding">
                                         <div class="single_blog_text s_b_left">
-                                            <h3>Transportation</h3>
+                                            <h3>@lang("Transportation")</h3>
                                             <div class="separator2"></div>
-                                            <p>Free transport for business meetings over Uzbekistan.</p>
+                                            <p>@lang("Free transport for business meetings over Uzbekistan").</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="read_more">Book Now >></a>
+                                            <a href="https://form.jotform.com/202992948975477" class="read_more">@lang("Book Now") >></a>
                                         </div>
                                     </div>
                                 </div>
@@ -222,11 +222,11 @@
 
                                     <div class="col-sm-6 col-sm-pull-6 no-padding">
                                         <div class="single_blog_text s_b_right">
-                                            <h3>Hotel services</h3>
+                                            <h3>@lang("Hotel services")</h3>
                                             <div class="separator2"></div>
-                                            <p style="margin-bottom: 23px;">50 % discount for hotel.</p><br>
+                                            <p style="margin-bottom: 23px;">@lang("50 % discount for hotel").</p><br>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="read_more">Book Now >></a>
+                                            <a href="https://form.jotform.com/202992948975477" class="read_more">@lang("Book Now") >></a>
                                         </div>
                                     </div>
 
@@ -244,11 +244,11 @@
                                     </div>
                                     <div class="col-sm-6 col-sm-pull-6 no-padding">
                                         <div class="single_blog_text s_b_right">
-                                            <h3>Interpreter</h3>
+                                            <h3>@lang("Interpreter")</h3>
                                             <div class="separator2"></div>
-                                            <p>Free interpreter service in business meetings and project presentations.</p>
+                                            <p>@lang("Free interpreter service in business meetings and project presentations").</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="read_more">Book Now >></a>
+                                            <a href="https://form.jotform.com/202992948975477" class="read_more">@lang("Book Now") >></a>
                                         </div>
                                     </div>
 
@@ -265,11 +265,11 @@
                                     </div>
                                     <div class="col-sm-6 no-padding">
                                         <div class="single_blog_text s_b_left">
-                                            <h3>Tour</h3>
+                                            <h3>@lang("Tour")</h3>
                                             <div class="separator2"></div>
-                                            <p>Free tour service in historical sites over the Republic.</p>
+                                            <p>@lang("Free tour service in historical sites over the Republic").</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="read_more">Book Now >></a>
+                                            <a href="https://form.jotform.com/202992948975477" class="read_more">@lang("Book Now") >></a>
                                         </div>
                                     </div>
                                 </div>
@@ -286,11 +286,11 @@
                                     </div>
                                     <div class="col-sm-6 no-padding">
                                         <div class="single_blog_text s_b_left">
-                                            <h3>Security</h3>
+                                            <h3>@lang("Security")</h3>
                                             <div class="separator2"></div>
-                                            <p>Ensuring a safe journey on the territory of the Republic.</p>
+                                            <p>@lang("Ensuring a safe journey on the territory of the Republic").</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="read_more">Book Now >></a>
+                                            <a href="https://form.jotform.com/202992948975477" class="read_more">@lang("Book Now") >></a>
                                         </div>
                                     </div>
                                 </div>
@@ -317,9 +317,9 @@
             <div class="row">
                 <div class="main_study_area sections">
                     <div class="head_title text-center">
-                        <h2>JURIDICAL, ORAGANIZATIONAL ASSISTANCE AND ADVERTISING AND PROMOTION</h2>
+                        <h2>@lang("JURIDICAL, ORAGANIZATIONAL ASSISTANCE, ADVERTISING AND PROMOTION")</h2>
                         <div class="subtitle">
-                            State legislation guarantees the rights of investors. State organizations and their authorities have no rights to disturb investors who carry out their activity in accordance with legal norms and regulations.(Rep. Uz. RUL-N*598)
+                            @lang("State legislation guarantees the rights of investors. State organizations and their authorities have no rights to disturb investors who carry out their activity in accordance with legal norms and regulations.(Rep. Uz. RUL-N*598)")
                         </div>
                         <div class="separator"></div>
                     </div>
@@ -333,32 +333,32 @@
                                             <div class="s_study_icon main-icons">
                                                 <i class="fa fa-legal"></i>  
                                             </div>
-                                            <h4>JURIDICAL ASSISTANCE</h4>
+                                            <h4>@lang("JURIDICAL ASSISTANCE")</h4>
                                             <div class="separator3"></div>
-                                            <p>A party to the investment activity has the right to be a party of the competitive (tender) bidding, electronic stores and auctions
-State bodies and their officials cannot use the fact of a violation as a basis for interference or restriction of other, not related to investment, legal activities of investment entities.(Rep. Uz. RUL-M598)</p>
+                                            <p>@lang("A party to the investment activity has the right to be a party of the competitive (tender) bidding, electronic stores and auctions
+State bodies and their officials cannot use the fact of a violation as a basis for interference or restriction of other, not related to investment, legal activities of investment entities.(Rep. Uz. RUL-M598)")</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">read more</a>
+                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">@lang("read more")</a>
                                         </div>
                                         <div class="item">
                                             <div class="s_study_icon main-icons">
                                                 <i class="fa fa-bank "></i>  
                                             </div>
-                                            <h4>GUARANTEES OF THE FREE TRANSFER OF FUNDS</h4>
+                                            <h4>@lang("GUARANTEES OF THE FREE TRANSFER OF FUNDS")</h4>
                                             <div class="separator3"></div>
-                                            <p>Investors are guaranteed the free transfer of funds in foreign currency to and from the Republic of Uzbekistan without any restrictions, on condition that they pay taxes and payments, including currency conversion for repatriation.</p>
+                                            <p>@lang("Investors are guaranteed the free transfer of funds in foreign currency to and from the Republic of Uzbekistan without any restrictions, on condition that they pay taxes and payments, including currency conversion for repatriation").</p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">read more</a>
+                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">@lang("read more")</a>
                                         </div>
                                         <div class="item">
                                             <div class="s_study_icon main-icons">
                                                 <i class="fa fa-bullhorn"></i>  
                                             </div>
-                                            <h4>ADVERTISING & PROMOTION</h4>
+                                            <h4>@lang("ADVERTISING & PROMOTION")</h4>
                                             <div class="separator3"></div>
-                                            <p style="margin-bottom: 70px;">Free promotion over state Tv , radio progames and social networks for entrepreneurial activities of foreign business entities applying services of "Business Support Centre"<br><br></p>
+                                            <p style="margin-bottom: 70px;">@lang("Free promotion over state Tv, radio progames and social networks for entrepreneurial activities of foreign business entities applying services of 'Business Support Centre'")<br><br></p>
 
-                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">read more</a>
+                                            <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">@lang("read more")</a>
                                         </div>
                                     </div>
                                 </div>
