@@ -31,6 +31,9 @@
                                     <li><a href="#pricing">@lang("PRICING")</a></li>
                                     <li><a href="#team">@lang("TEAM")</a></li>
                                     <li><a href="#contact">@lang("CONTACTS")</a></li>
+                                    <li><a href="{{ url( 'en') }}"><img src="/assets/images/icon/1.jpg"></a></li>
+                                    <li><a href="{{ url( 'ru') }}"><img src="/assets/images/icon/2.jpg"></a></a></li>
+                                    <li><a href="{{ url( 'uz') }}"><img src="/assets/images/icon/3.jpg"></a></a></li>
                                 </ul>
 
 

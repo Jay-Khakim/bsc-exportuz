@@ -335,9 +335,7 @@
                                             </div>
                                             <h4>@lang("JURIDICAL ASSISTANCE")</h4>
                                             <div class="separator3"></div>
-                                            <p>@lang("A party to the investment activity has the right to be a party of the competitive (tender) bidding, electronic stores and auctions
-State bodies and their officials cannot use the fact of a violation as a basis for interference or restriction of other, not related to investment, legal activities of investment entities.(Rep. Uz. RUL-M598)")</p>
-
+                                            <p>@lang("A party to the investment activity has the right to be a party of the competitive (tender) bidding, electronic stores and auctions State bodies and their officials cannot use the fact of a violation as a basis for interference or restriction of other, not related to investment, legal activities of investment entities.(Rep. Uz. RUL-M598)")</p> 
                                             <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">@lang("read more")</a>
                                         </div>
                                         <div class="item">
@@ -394,7 +392,7 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <div class="single_counter_item">
                                             <i class="icon icon-thumbs-up"></i>
                                             <h2 class="statistic-counter">291</h2>
-                                            <h4 class="">User Favourites</h4>
+                                            <h4 class="">@lang("User Satisfaction")</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -404,7 +402,7 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <div class="single_counter_item">
                                             <i class="icon icon-business-3"></i>
                                             <h2 class="statistic-counter">111</h2>
-                                            <h4 class="">Achievements</h4>  
+                                            <h4 class="">@lang("Achievements")</h4>  
                                         </div>
                                     </div>
                                 </div> 
@@ -414,7 +412,7 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <div class="single_counter_item">
                                             <i class="icon icon-people-32"></i>
                                             <h2 class="statistic-counter">118</h2>
-                                            <h4 class="">Clients</h4>  
+                                            <h4 class="">@lang("Clients")</h4>  
                                         </div>
 
                                     </div>
@@ -425,7 +423,7 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <div class="single_counter_item">
                                             <i class="icon icon-cup"></i>
                                             <h2 class="statistic-counter">78</h2>
-                                            <h4 class="">Amazing Features</h4>
+                                            <h4 class="">@lang("Amazing Features")</h4>
 
                                         </div>
                                     </div> 
@@ -444,9 +442,9 @@ State bodies and their officials cannot use the fact of a violation as a basis f
             <div class="row">
                 <div class="main_pricing_area sections">
                     <div class="head_title text-center">
-                        <h2>OUR PRICING</h2>
+                        <h2>@lang("OUR PRICING")</h2>
                         <div class="subtitle">
-                            A 30 days free trial for all. A brief story about how this process works, keep an eye till the end.
+                            @lang("A 30 days free trial for all. A brief story about how this process works, keep an eye till the end").
                         </div>
                         <div class="separator"></div>
                     </div><!-- End off Head_title -->
@@ -454,69 +452,69 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                     <div class="col-md-4 col-sm-6">
                         <div class="single_pricing">
                             <div class="pricing_head">
-                                <h3>STARTER</h3>
+                                <h3>@lang("STARTER")</h3>
                                 <div class="pricing_price">
                                     <div class="p_r text-center">$1000</div>
-                                    <div class="m_t text-center">per month</div>
+                                    <div class="m_t text-center">@lang("per month")</div>
                                 </div>
                             </div>
 
                             <div class="pricing_body">
                                 <ul>
-                                    <li>Ticket & Visa invitation</li>
-                                    <li>Transportation</li>
-                                    <li>Hotel services</li>
-                                    <li>Interpreter</li>
-                                    <li>Tour</li>
-                                    <li>Security</li>
+                                    <li>@lang("Ticket & Visa invitation")</li>
+                                    <li>@lang("Transportation")</li>
+                                    <li>@lang("Hotel services")</li>
+                                    <li>@lang("Interpreter")</li>
+                                    <li>@lang("Tour")</li>
+                                    <li>@lang("Security")</li>
                                 </ul>
-                                <a href="https://form.jotform.com/202992948975477" class="btn btn-md">CHOOSE PLAN</a>
+                                <a href="https://form.jotform.com/202992948975477" class="btn btn-md">@lang("CHOOSE PLAN")</a>
                             </div>
                         </div>
                     </div> <!-- End off col-md-4 -->
                     <div class="col-md-4 col-sm-6">
                         <div class="single_pricing pricing_business">
                             <div class="pricing_head ">
-                                <h3>PREMIUM</h3>
+                                <h3>@lang("PREMIUM")</h3>
                                 <div class="pricing_price">
                                     <div class="p_r text-center">$1000</div>
-                                    <div class="m_t text-center">per month</div>
+                                    <div class="m_t text-center">@lang("per month")</div>
                                 </div>
                             </div>
 
                             <div class="pricing_body">
                                 <ul>
-                                    <li>Ticket & Visa invitation</li>
-                                    <li>Transportation</li>
-                                    <li>Hotel services</li>
-                                    <li>Interpreter</li>
-                                    <li>Tour</li>
-                                    <li>Security</li>
+                                    <li>@lang("Ticket & Visa invitation")</li>
+                                    <li>@lang("Transportation")</li>
+                                    <li>@lang("Hotel services")</li>
+                                    <li>@lang("Interpreter")</li>
+                                    <li>@lang("Tour")</li>
+                                    <li>@lang("Security")</li>
                                 </ul>
-                                <a href="https://form.jotform.com/202992948975477" class="btn btn-md">CHOOSE PLAN</a>
+                                <a href="https://form.jotform.com/202992948975477" class="btn btn-md">@lang("CHOOSE PLAN")</a>
                             </div>
                         </div>
                     </div> <!-- End off col-md-4 -->
                     <div class="col-md-4 col-sm-6">
                         <div class="single_pricing">
                             <div class="pricing_head">
-                                <h3>BUSINESS</h3>
+                                <h3>@lang("BUSINESS")</h3>
                                 <div class="pricing_price">
                                     <div class="p_r text-center">$1000</div>
-                                    <div class="m_t text-center">per month</div>
+                                    <div class="m_t text-center">@lang("per month")</div>
                                 </div>
                             </div>
 
                             <div class="pricing_body">
                                 <ul>
-                                    <li>Ticket & Visa invitation</li>
-                                    <li>Transportation</li>
-                                    <li>Hotel services</li>
-                                    <li>Interpreter</li>
-                                    <li>Tour</li>
-                                    <li>Security</li>
+                                    <li>@lang("Ticket & Visa invitation")</li>
+                                    <li>@lang("Transportation")</li>
+                                    <li>@lang("Hotel services")</li>
+                                    <li>@lang("Interpreter")</li>
+                                    <li>@lang("Tour")</li>
+                                    <li>@lang("Security")</li>
                                 </ul>
-                                <a href="https://form.jotform.com/202992948975477" class="btn btn-md">CHOOSE PLAN</a>
+                                <a href="https://form.jotform.com/202992948975477" class="btn btn-md">@lang("CHOOSE PLAN")</a>
                             </div>
                         </div>
                     </div> <!-- End off col-md-4 -->
@@ -532,9 +530,9 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="head_title textwhite text-center margin-top-80">
-                            <h2>OUR TEAM</h2>
+                            <h2>@lang("OUR TEAM")</h2>
                             <div class="subtitle">
-                                Meet the craziest team. Share your thoughts with them.
+                               @lang("Meet the craziest team. Share your thoughts with them").
                             </div>
                             <div class="separator"></div>
                         </div><!-- End off Head_title -->
@@ -546,8 +544,8 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <img src="assets/images/team-1.jpg" alt="" />
                                     </div>
                                     <div class="single_team_text">
-                                        <h4>Muhtor Umarov</h4>
-                                        <p>Chairman</p>
+                                        <h4>@lang("Muhtor Umarov")</h4>
+                                        <p>@lang("Chairman")</p>
                                     </div>
                                 </li>
                                 <li>
@@ -555,8 +553,8 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <img src="assets/images/team-2.jpg" alt="" />
                                     </div>
                                     <div class="single_team_text">
-                                        <h4>YORKIN MALIKOV</h4>
-                                        <p>Deputy Chairman</p>
+                                        <h4>@lang("YORKIN MALIKOV")</h4>
+                                        <p>@lang("Deputy Chairman")</p>
                                     </div>
                                 </li>
                                 <li>
@@ -564,8 +562,8 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <img src="assets/images/team-3.jpg" alt="" />
                                     </div>
                                     <div class="single_team_text">
-                                        <h4>Khusniddin Ismoilov</h4>
-                                        <p>Designer</p>
+                                        <h4>@lang("Khusniddin Ismoilov")</h4>
+                                        <p>@lang("Expert on Foreign Affairs")</p>
                                     </div>
                                 </li>
                                 <li>
@@ -573,8 +571,8 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <img src="assets/images/team-4.jpg" alt="" />
                                     </div>
                                     <div class="single_team_text">
-                                        <h4>Sirojiddin Narziqulov</h4>
-                                        <p>Marketing</p>
+                                        <h4>@lang("Sirojiddin Narziqulov")</h4>
+                                        <p>@lang("Expert on Foreign Economic Affairs")</p>
                                     </div>
                                 </li>
                                 <li>
@@ -582,8 +580,8 @@ State bodies and their officials cannot use the fact of a violation as a basis f
                                         <img src="assets/images/team-5.jpg" alt="" />
                                     </div>
                                     <div class="single_team_text">
-                                        <h4>Bahodir Abdurahmonov</h4>
-                                        <p>Web Developer</p>
+                                        <h4>@lang("Bahodir Abdurahmonov")</h4>
+                                        <p>@lang("Deputy Head of International Economic Relations Department")</p>
                                     </div>
                                 </li>
                             </ul>
