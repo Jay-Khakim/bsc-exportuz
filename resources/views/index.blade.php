@@ -532,7 +532,7 @@
                         <div class="head_title textwhite text-center margin-top-80">
                             <h2>@lang("OUR TEAM")</h2>
                             <div class="subtitle">
-                               @lang("Meet the craziest team. Share your thoughts with them").
+                               @lang("Meet the main team. Share your thoughts with them").
                             </div>
                             <div class="separator"></div>
                         </div><!-- End off Head_title -->
@@ -553,7 +553,7 @@
                                         <img src="assets/images/team-2.jpg" alt="" />
                                     </div>
                                     <div class="single_team_text">
-                                        <h4>@lang("YORKIN MALIKOV")</h4>
+                                        <h4>@lang("Yorqin Malikov")</h4>
                                         <p>@lang("Deputy Chairman")</p>
                                     </div>
                                 </li>
