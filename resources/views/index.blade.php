@@ -143,7 +143,7 @@
                             <div class="head_title">
                                 <h2>@lang("OUR HISTORY")</h2>
                             </div>
-                            <p class="history">@lang("The Association of Exporters of Uzbekistan was officially registered on September 23, 2019 with certificate N?1740 by Ministry of Justice of the Republic of Uzbekistan.  The Association of Exporters of Uzbekistan assists member companies to expand practical communications and relations with foreign partners, to penetrate foreign markets with export products, including to emerge new manufacturers as well as to attract foreign investments").<br>
+                            <p class="history">@lang("The Association of Exporters of Uzbekistan was officially registered on September 23, 2019 with certificate N 1740 by Ministry of Justice of the Republic of Uzbekistan.  The Association of Exporters of Uzbekistan assists member companies to expand practical communications and relations with foreign partners, to penetrate foreign markets with export products, including to emerge new manufacturers as well as to attract foreign investments").<br>
                             @lang("'Business support centre' under the Association of Exporters of Uzbekistan comprehensively supports entrepreneurs, create favourable conditions, and legally protect them"). </p>
 
                             <a href="http://exportuz.com/" class="btn btn-lg">@lang("Official Site")</a>
