@@ -647,9 +647,9 @@
                 <div class="col-sm-12">
                     <div class="contact_contant sections">
                         <div class="head_title text-center">
-                            <h2>kEEP IN TOUCH</h2>
+                            <h2>@lang("KEEP IN TOUCH")</h2>
                             <div class="subtitle">
-                                BUSINESS SUPPORT CENTRE" IS A GUARANTEE OF YOUR ENTREPRENEURIAL ACTIVITY IN UZBEKISTAN  
+                                @lang("'BUSINESS SUPPORT CENTRE' IS A GUARANTEE OF YOUR ENTREPRENEURIAL ACTIVITY IN UZBEKISTAN")  
                             </div>
                             <div class="separator"></div>
                         </div><!-- End off Head_title -->
@@ -661,15 +661,15 @@
                                             <div class="col-sm-12">
                                                 <div class="single_contact_info">
                                                     <div class="single_info_text">
-                                                        <h3>OUR ADDRESS</h3>
-                                                        <h4>8A, Karakamish street, Almazor district, Tashkent, Uzbekistan</h4>
+                                                        <h3>@lang("OUR ADDRESS")</h3>
+                                                        <h4>@lang("8A, Karakamish street, Almazor district, Tashkent, Uzbekistan")</h4>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-sm-12">
                                                 <div class="single_contact_info">
                                                     <div class="single_info_text">
-                                                        <h3>CALL US</h3>
+                                                        <h3>@lang("CALL US")</h3>
                                                         <h4>+ 99895 1454502</h4>
                                                         <h4>+ 99871 2070098</h4>
                                                     </div>
@@ -678,7 +678,7 @@
                                             <div class="col-sm-12">
                                                 <div class="single_contact_info">
                                                     <div class="single_info_text">
-                                                        <h3>EMAIL US</h3>
+                                                        <h3>@lang("EMAIL US")</h3>
                                                         <h4>info@exportuz.com</h4>
                                                     </div>
                                                 </div>
@@ -742,10 +742,10 @@
                     <div class="row">
                         <div class="main_trial">
                             <div class="col-sm-12">
-                                <h2>Let's Get Started Now. <span>It's FREE!</span></h2>
-                                <h4>Legal entities are exempted from corporate income tax, property tax, single tax for a certain period of time, depending on the amount of investment made in accordance with the legislation.
+                                <h2>@lang("Let's Get Started Now"). <span>@lang("It's FREE")!</span></h2>
+                                <h4>@lang("Legal entities are exempted from corporate income tax, property tax, single tax for a certain period of time, depending on the amount of investment made in accordance with the legislation").
 </h4>
-                                <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">start free trial</a>
+                                <a href="https://form.jotform.com/202992948975477" class="btn btn-lg">@lang("Start free trial")</a>
                             </div>
                         </div>
                     </div>
@@ -774,7 +774,7 @@
 
                             <div class="col-sm-6 col-xs-12">
                                 <div class="copyright_text">
-                                    <p class=" wow fadeInRight" data-wow-duration="1s">© 2020 Association of Exporters of Uzbekistan</p>
+                                    <p class=" wow fadeInRight" data-wow-duration="1s">© 2020 @lang("Association of Exporters of Uzbekistan")</p>
                                 </div>
                             </div>
                         </div>
