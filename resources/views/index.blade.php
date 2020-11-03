@@ -161,7 +161,7 @@
                 <div class="main_blog sections">
                     <div class="head_title text-center">
                         <h2>@lang("GENERAL SERVICES")</h2>
-                        <div class="subtitle">
+                        <div class="subtitle container">
                             @lang("'Business support centre' offers its beneficial services to foreign entrepreneurial entities. 'Business support centre' guarantees and protects your entrepreneurial activities and rights correspondingly in Uzbekistan in accordance with the legislation in the field of business").
 
                         </div>
